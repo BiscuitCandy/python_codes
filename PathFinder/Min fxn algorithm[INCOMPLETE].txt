@@ -1,0 +1,13 @@
+known parameters Maze_Matrix , x,y,ex,ey
+
+if x == ex:
+return [x,y+1]
+
+if y == ey :
+return [x+1,y]
+
+else:
+	if Maze_Matrix[x][y+1] != Maze_Matrix[x+1][y]:
+		return Maze_Matrix[x][y+1]<Maze_Matrix[x+1][y] ? [x,y+1] : [x+1,y]
+	else:
+		return min(x,y+1)<min(x+1,y) ? [x,y+1] : [x+1,y]

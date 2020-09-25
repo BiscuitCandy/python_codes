@@ -1,0 +1,6 @@
+You can edit the files regarding the program 
+Or you can also enjoy the game 
+You are given some random number of chances based on  no.of unique letters in the word
+You should guess all the unique letters in the given word
+Your every response is counted either it's proper choice or improper
+Good Luck
