@@ -1,7 +1,7 @@
 # import Random module for sampling and length
 import random
 
-# define the requirements of the password
+#the requirements of the password
 small = 'abcdefghijklmnopqrstuvwxyz'
 capital = small.upper()
 numbers = '1234567890'
