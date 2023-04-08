@@ -1,0 +1,1 @@
+- This project file is based on the DIGIT RECOGNIZER dataset in Kaggle [https://www.kaggle.com/competitions/digit-recognizer]
