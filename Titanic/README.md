@@ -1,0 +1,1 @@
+- This project files are based on the training and testing data from kaggle tiatanic dataset [https://www.kaggle.com/competitions/titanic]
