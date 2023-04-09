@@ -1,0 +1,1 @@
+- The notebook in this repo corresponds to dataset of Spaceship Titanic in kaggle [https://www.kaggle.com/competitions/spaceship-titanic] 
